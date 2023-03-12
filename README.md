@@ -1,5 +1,5 @@
 - 👋 Hi, Welcome to @Youpu-Chen's Github homepage.
-- 👀 Interested in Computational biology, Genetics, etc.
+- 👀 Interested in Computational biology, Genetics, Genomics, etc.
 - 🌱 FDU <- FAFU
 - 📫 E-mail: otis.hongpu@gmail.com
 
